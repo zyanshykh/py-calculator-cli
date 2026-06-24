@@ -1,0 +1,6 @@
+{
+  "name": "Python CLI Calculator Simulator",
+  "description": "An interactive sandbox showcasing a professional Python Calculator CLI program with a live simulated terminal, syntax-highlighted code, and detailed exception handling explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
