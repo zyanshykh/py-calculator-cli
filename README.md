@@ -22,8 +22,10 @@ Make sure you have **Python 3.x** installed on your system.
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/zyanshykh/py-calculator-cli.git](https://github.com/zyanshykh/py-calculator-cli.git)
+   git clone [https://github.com/zyanshykh/py-calculator-cli.git](https://github.com/zyanshykh/py-  calculator-cli.git)
+   
    cd py-calculator-cli
+   
    python main.py
 ```
 ---
