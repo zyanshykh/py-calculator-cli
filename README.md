@@ -1,20 +1,45 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+  <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# 🧮 Python CLI Calculator
 
-This contains everything you need to run your app locally.
+A simple, fast, and efficient Command Line Interface (CLI) calculator built with Python. This project allows you to perform basic arithmetic operations right from your terminal.
 
-View your app in AI Studio: https://ai.studio/apps/fbc34e56-6025-4fef-93fd-a3b9e843d210
+---
 
-## Run Locally
+## 🚀 Features
 
-**Prerequisites:**  Node.js
+*   **Basic Arithmetic:** Addition, Subtraction, Multiplication, and Division.
+*   **Command Line Interface:** Quick execution without needing a heavy GUI.
+*   **Error Handling:** Gracefully handles edge cases like division by zero.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Run Locally
+
+### Prerequisites
+
+Make sure you have **Python 3.x** installed on your system.
+
+### Steps to Setup
+
+1. **Clone the repository:**
+```bash
+   git clone [https://github.com/zyanshykh/py-calculator-cli.git](https://github.com/zyanshykh/py-calculator-cli.git)
+   cd py-calculator-cli
+   python main.py
+```
+---
+
+## 📂 Project Structure
+
+*   **`main.py`** - The entry point of the application.
+*   **`calculator.py`** - Contains the core logic for mathematical operations.
+*   **`README.md`** - Project documentation.
+
+---
+
+## ✍️ Author
+
+*   **Zayan Sheikh** - [*@zyanshykh*](https://github.com/zyanshykh)
